@@ -1,2 +1,2 @@
 # my_own_testing_repository
-this is just for my own experimenting, chaotic 
+just trying out some basic functionality
